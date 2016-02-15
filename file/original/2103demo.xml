@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="Sdl.SDLX .Net API"
+    creationtoolversion="2011.0.9010.0"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="EN-US"
+    srclang="EN-US"
+    o-tmf="sdlxTM"
+  >
+  </header>
+  <body>
+    <tu tuid="5" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Contact Information</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121220T140155Z" creationid="ps" lastusagedate="20141103T162619Z" changedate="20121220T140155Z" changeid="ps" usagecount="1">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_PS\_!_!_\20121023\10_Planning and Hosting an Onsite Customer Event_for translation\Onsite Customer Event Toolbox\Toolbox\Post Event Survey Template.doc</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Información de contacto</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Industrial Equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193955Z" changedate="20121212T154923Z" changeid="Sj" usagecount="15">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Equipos industriales</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Press Releases</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T194002Z" changedate="20121212T154923Z" changeid="Sj" usagecount="20">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\6_3DS Branding Guidelines and Your Website_for translation\3DS Branding Guidelines &amp;amp; Your Website_Quiz Answers.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Notas de prensa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Aerospace &amp; Defense</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193955Z" changedate="20121212T154923Z" changeid="Sj" usagecount="8">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Aeroespacial y defensa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Architecture, Engineering &amp; Construction</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193955Z" changedate="20121212T154923Z" changeid="Sj" usagecount="6">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Arquitectura, ingeniería y construcción</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Consumer Goods &amp; Retail</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193718Z" changedate="20121212T154923Z" changeid="Sj" usagecount="3">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Bienes de consumo y distribución</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Consumer Packaged Goods &amp; Retail</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193725Z" changedate="20130125T140424Z" changeid="ps" usagecount="5">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Bienes de consumo envasados y distribución</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Energy, Process &amp; Utilities</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20150331T142633Z" changedate="20121212T154923Z" changeid="Sj" usagecount="7">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Energía, producción y suministro</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Financial &amp; Business Services</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193643Z" changedate="20121212T154923Z" changeid="Sj" usagecount="3">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Servicios financieros y empresariales</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Marine &amp; Offshore</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193734Z" changedate="20121212T154923Z" changeid="Sj" usagecount="6">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Náutico y marítimo</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Natural Resources</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20121212T154923Z" changedate="20121212T154923Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Recursos naturales</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154926Z" creationid="Sj" lastusagedate="20141215T131657Z" changedate="20121212T154926Z" changeid="Sj" usagecount="138">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\3_Building Your Marketing Plan_for translation\Building your Marketing Plan.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Eventos</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154936Z" creationid="Sj" lastusagedate="20150209T144304Z" changedate="20121212T154936Z" changeid="Sj" usagecount="24">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\5_Integrated Marketing Framework_for translation\Integrated Marketing Framework and In a box campaigns.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Póngase en contacto con nosotros</seg>
+      </tuv>
+    </tu>
+    <tu tuid="395" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Appendix A</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121220T140209Z" creationid="ps" lastusagedate="20121220T140209Z" changedate="20121220T140209Z" changeid="ps" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\8_Executing Effective e-Seminars_for translation\e-Seminar Planning Toolbox\Toolbox\Appendix\Appendix A_Getting Started.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Apéndice A</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1849" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Service</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20121212T154923Z" changedate="20121212T154923Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Servicios</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1878" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Challenge</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154936Z" creationid="Sj" lastusagedate="20121212T154936Z" changedate="20121212T154936Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\5_Integrated Marketing Framework_for translation\Integrated Marketing Framework and In a box campaigns.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Reto</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1944" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Database</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20121212T154923Z" changedate="20121212T154923Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Base de datos</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2431" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Content</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121220T140157Z" creationid="ps" lastusagedate="20150209T154316Z" changedate="20121220T140157Z" changeid="ps" usagecount="25">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_PS\_!_!_\20121023\10_Planning and Hosting an Onsite Customer Event_for translation\Onsite Customer Event_Quick Reference Guide.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Contenido</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2638" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154945Z" creationid="Sj" lastusagedate="20141212T193945Z" changedate="20121212T154945Z" changeid="Sj" usagecount="2">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Trade Show Event Plan.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3133" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154938Z" creationid="Sj" lastusagedate="20121212T154938Z" changedate="20121212T154938Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Marketing Program Planning.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Contactos</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3159" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154938Z" creationid="Sj" lastusagedate="20150529T172247Z" changedate="20121212T154938Z" changeid="Sj" usagecount="3">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Marketing Program Planning.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Descripción</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3274" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20150427T145308Z" changedate="20121212T154923Z" changeid="Sj" usagecount="20">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Sí</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3314" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Example</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154922Z" creationid="Sj" lastusagedate="20121212T154922Z" changedate="20121212T154922Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\6_3DS Branding Guidelines and Your Website_for translation\3DS Branding Guidelines &amp;amp; Your Website.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Ejemplo</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3373" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>or</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154920Z" creationid="Sj" lastusagedate="20121212T154920Z" changedate="20121212T154920Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\6_3DS Branding Guidelines and Your Website_for translation\3DS Branding Guidelines  Your Website Quick Reference Guide.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>o</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3571" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Dependencies</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154938Z" creationid="Sj" lastusagedate="20121212T154938Z" changedate="20121212T154938Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Marketing Program Planning.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Dependencias</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4853" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20121212T154923Z" changedate="20121212T154923Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5903" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154920Z" creationid="Sj" lastusagedate="20121212T154920Z" changedate="20121212T154920Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\6_3DS Branding Guidelines and Your Website_for translation\3DS Branding Guidelines  Your Website Quick Reference Guide.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Contenido</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9231" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121220T140204Z" creationid="ps" lastusagedate="20121220T140204Z" changedate="20121220T140204Z" changeid="ps" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\11_Newsletter Basics\Newsletter Basics Toolbox\Newsletter Editorial Calendar_Tracking Document.xlsx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Destacados</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9660" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>First Name</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154929Z" creationid="Sj" lastusagedate="20141103T162620Z" changedate="20121212T154929Z" changeid="Sj" usagecount="1">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\4_Developing Growing and Maintaining Your Database_for translation\Developing Growing and Maintaining Your Database.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Nombre</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9661" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Last Name:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154922Z" creationid="Sj" lastusagedate="20121212T154922Z" changedate="20121212T154922Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\6_3DS Branding Guidelines and Your Website_for translation\3DS Branding Guidelines &amp;amp; Your Website_Quiz Answers.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Apellidos:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9706" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Direct Mail</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154924Z" creationid="Sj" lastusagedate="20121212T154924Z" changedate="20121212T154924Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Correo directo</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9707" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20121212T154923Z" changedate="20121212T154923Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Otros</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9901" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154945Z" creationid="Sj" lastusagedate="20121212T154945Z" changedate="20121212T154945Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Trade Show Event Plan.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Comentarios</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10075" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Dates</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154945Z" creationid="Sj" lastusagedate="20121212T154945Z" changedate="20121212T154945Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Trade Show Event Plan.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Fechas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11151" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Benefits:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121220T140205Z" creationid="ps" lastusagedate="20141215T131555Z" changedate="20121220T140205Z" changeid="ps" usagecount="9">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\11_Newsletter Basics\Newsletter Basics.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Ventajas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11561" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>EVENT</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154936Z" creationid="Sj" lastusagedate="20121212T154936Z" changedate="20121212T154936Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\5_Integrated Marketing Framework_for translation\Integrated Marketing Framework and In a box campaigns.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>EVENTO</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13846" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154920Z" creationid="Sj" lastusagedate="20141212T193919Z" changedate="20121212T154920Z" changeid="Sj" usagecount="1">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\6_3DS Branding Guidelines and Your Website_for translation\3DS Branding Guidelines  Your Website Quick Reference Guide.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13892" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Whitepaper</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154936Z" creationid="Sj" lastusagedate="20150209T152754Z" changedate="20121212T154936Z" changeid="Sj" usagecount="18">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\5_Integrated Marketing Framework_for translation\Integrated Marketing Framework and In a box campaigns.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Documentación técnica</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14983" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154938Z" creationid="Sj" lastusagedate="20141103T162526Z" changedate="20121212T154938Z" changeid="Sj" usagecount="4">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Marketing Program Planning.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Fecha</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15763" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Benefits</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154947Z" creationid="Sj" lastusagedate="20150121T134104Z" changedate="20130125T140440Z" changeid="ps" usagecount="5">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Tradeshow Best Practices.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Beneficios</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17421" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Service</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154945Z" creationid="Sj" lastusagedate="20121212T154945Z" changedate="20121212T154945Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Trade Show Event Plan.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Servicio</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20172" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Delivery</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121220T140205Z" creationid="ps" lastusagedate="20121220T140205Z" changedate="20121220T140205Z" changeid="ps" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\11_Newsletter Basics\Newsletter Basics.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Entrega</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20174" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154923Z" creationid="Sj" lastusagedate="20141212T193854Z" changedate="20121212T154923Z" changeid="Sj" usagecount="1">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\1_3DS Partner Marketing Excellence Program\3DS Partner Marketing Excellence Program_Assessment Survey.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Soporte técnico</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20300" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Customer</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154936Z" creationid="Sj" lastusagedate="20121212T154936Z" changedate="20121212T154936Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\5_Integrated Marketing Framework_for translation\Integrated Marketing Framework and In a box campaigns.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Cliente</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20309" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Agenda</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154945Z" creationid="Sj" lastusagedate="20121212T154945Z" changedate="20121212T154945Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Trade Show Event Plan.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Orden del día</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20366" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Time</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154949Z" creationid="Sj" lastusagedate="20121212T154949Z" changedate="20121212T154949Z" changeid="Sj" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Trade Show Planning Toolbox\Tradeshow Planning Checklist.docx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Hora</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20504" srclang="EN-US">
+      <tuv xml:lang="EN-US">
+        <seg>Follow-up</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationdate="20121212T154947Z" creationid="Sj" lastusagedate="20121212T154947Z" changedate="20130125T140440Z" changeid="ps" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">C:\TEMP_Sj\DAS_2\7_Trade Show Best Practices_for translation\Tradeshow Best Practices.pptx</prop>
+        <prop type="x-ALS:BRAND">Dassault</prop>
+        <prop type="x-ALS:Department">Mktg</prop>
+        <prop type="x-ALS:Type of Material">ExcellenceMarketingProgram</prop>
+        <seg>Seguimiento</seg>
+      </tuv>
+    </tu>
+   
+  </body>
+</tmx>

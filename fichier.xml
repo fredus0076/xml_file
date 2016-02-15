@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="Sdl.SDLX .Net API"
+    creationtoolversion="2011.0.9010.0"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="EN-US"
+    srclang="EN-US"
+    o-tmf="sdlxTM"
+  >
+  </header>
+  <body>
+    <tu tuid="43852" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>What if they changed the radiation exposure limit on a CT scanner?</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143901Z" creationid="servicedassault" lastusagedate="20151119T143901Z" changedate="20151119T143901Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Cosa accadrebbe se riuscissero a modificare il limite di esposizione di un&apos;apparecchiatura per la TAC?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43853" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>Pacemakers, computerised insulin pumps, defibrillators, baby monitors, webcams, fitness trackers and smart toilets have <bpt i="1" x="1">&lt;1&gt;</bpt>all already been hacked<ept i="1">&lt;/1&gt;</ept>.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143901Z" creationid="servicedassault" lastusagedate="20151119T143901Z" changedate="20151119T143901Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Pacemaker, pompe di insulina computerizzate, defibrillatori, baby monitor, webcam, fitness tracker e water intelligenti sono <bpt i="1" x="1">&lt;1&gt;</bpt>già stati tutti hackerati<ept i="1">&lt;/1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43854" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>Most of these have been public demonstrations of hackers’ prowess rather than any real mischief.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143901Z" creationid="servicedassault" lastusagedate="20151119T143901Z" changedate="20151119T143901Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Nella maggior parte dei casi si è trattato di dimostrazioni pubbliche dell&apos;abilità di un hacker piuttosto che crimini veri e propri.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43855" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>But it’s proof that it can be done.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143901Z" creationid="servicedassault" lastusagedate="20151119T143901Z" changedate="20151119T143901Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Ma è la prova che questi dispositivi possono essere manomessi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43856" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>A study by HP found that three-quarters of IoT devices are vulnerable to being hacked.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143901Z" creationid="servicedassault" lastusagedate="20151119T143901Z" changedate="20151119T143901Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Uno studio condotto da HP ha scoperto che tre quarti dei dispositivi IoT sono vulnerabili ad attacchi di hacker.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43857" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>And when it comes to home IoT systems, where lots of devices are talking to each other and making decisions about how to manage the house, all you need is one weak link in the chain and the whole system can be compromised.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143901Z" creationid="servicedassault" lastusagedate="20151119T143901Z" changedate="20151119T143901Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>E per quanto riguarda i sistemi IoT, dove un gran numero di dispositivi comunicano tra loro e prendono decisioni su come gestire una casa, è sufficiente un solo anello debole nella catena per compromettere la sicurezza dell&apos;intero sistema.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43858" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>Blurred lines... Who has control, us or the internet?</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143902Z" creationid="servicedassault" lastusagedate="20151119T143902Z" changedate="20151119T143902Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Insomma... chi ha il controllo, noi o Internet?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43859" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>The internet of things (IoT) is transforming everyday physical objects that surround us into an ecosystem of information that is rapidly changing the way we live our lives.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143902Z" creationid="servicedassault" lastusagedate="20151119T143902Z" changedate="20151119T143902Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>L&apos;internet degli oggetti (IoT) sta trasformando gli oggetti fisici di uso quotidiano in un ecosistema di informazioni che sta rapidamente cambiando il nostro modo di vivere.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43860" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>From refrigerators and cars, to parking spaces and houses, IoT is bringing more and more items into the digital fold every day.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143902Z" creationid="servicedassault" lastusagedate="20151119T143902Z" changedate="20151119T143902Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Dai frigoriferi alle auto, dai parcheggi alle case, l&apos;IoT porta ogni giorno nuovi oggetti nel mondo del digitale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43861" srclang="EN-US">
+      <tuv lang="EN-US">
+        <seg>Our homes, to give one example, could soon be tracking everything we do on a daily basis – from locking and unlocking the front door, to automatically ordering the groceries when the <bpt i="1" x="1">&lt;1&gt;</bpt>fridge is empty<ept i="1">&lt;/1&gt;</ept>.</seg>
+      </tuv>
+      <tuv lang="IT" creationdate="20151119T143902Z" creationid="servicedassault" lastusagedate="20151119T143902Z" changedate="20151119T143902Z" changeid="servicedassault" usagecount="0">
+        <prop type="x-ALS:Context">TEXT</prop>
+        <prop type="x-ALS:Source File">\\sdlproducts.com\DFS\SERVERS\DASSAULT\Data\TC\26752\SRC\EN-US\1104_20925_Home_Stories_How_can_technology_shape_the_future__The_Internet_of_Things\1104_20925_to_it_IT.xml</prop>
+        <seg>Tra non molto, per fare un esempio, le nostre case potrebbero essere in grado di tenere traccia di quello che facciamo quotidianamente, come chiudere a chiave e sbloccare la porta di ingresso e ordinare la spesa quando il <bpt i="1" x="1">&lt;1&gt;</bpt>frigo è vuoto<ept i="1">&lt;/1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+
+
+  </body>
+</tmx>

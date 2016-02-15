@@ -1,0 +1,12 @@
+{
+  "name": "threeds/translation/convertor",
+  "authors": [
+    {
+      "name": "fred",
+      "email": "fms3@3ds.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpexcel": "^1.8"
+  }
+}
